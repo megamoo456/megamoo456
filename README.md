@@ -3,11 +3,11 @@ Hi 👋, I'm Amin Ben Cheikh
 </h1>
 
 <h3 align="center">
-AI Software Engineer • Full Stack Engineer • GenAI & DevOps Enthusiast
+Software Engineer | Full Stack • AI • GenAI • RAG • DevOps
 </h3>
 
 <p align="center">
-Building production-ready AI applications with modern software engineering.
+Building intelligent, scalable and production-ready software with modern engineering and AI.
 </p>
 
 <p align="center">
@@ -20,8 +20,12 @@ Building production-ready AI applications with modern software engineering.
 <img src="https://img.shields.io/badge/LinkedIn-Amin%20Ben%20Cheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AminBenCheikh">
-<img src="https://img.shields.io/badge/GitHub-AminBenCheikh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://amin-bencheikh.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/megamoo456">
+<img src="https://img.shields.io/badge/GitHub-megamoo456-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <img src="https://img.shields.io/badge/Location-Tunis,%20Tunisia-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -32,40 +36,39 @@ Building production-ready AI applications with modern software engineering.
 
 # 🚀 About Me
 
-I'm an **AI Software Engineer** with **4+ years** of experience building scalable web applications and enterprise software.
+I'm a **Software Engineer** with **4+ years of experience** building enterprise web applications, scalable backend systems, and modern full-stack solutions.
 
-Today, my focus is on combining **Generative AI** with modern backend engineering to build production-ready AI systems powered by **Local LLMs**, **RAG**, **AI Agents**, and cloud-native architectures.
+Recently, I've been expanding my expertise into **Artificial Intelligence**, building production-ready applications powered by **Local LLMs**, **Retrieval-Augmented Generation (RAG)**, and modern AI frameworks.
 
-I enjoy designing applications that are not only intelligent but also maintainable, scalable, and deployable.
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Local LLMs (Ollama)
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain & LangGraph
-- 🤖 AI Agents & Multi-Agent Systems
-- 🐳 Docker & Kubernetes
-- ⚡ FastAPI
-- ☁️ DevOps & CI/CD
-- 📈 Building Production AI Applications
+I enjoy designing software that combines clean architecture, performance, scalability, and great user experience.
 
 ---
 
-# 🧠 AI & GenAI
+# 💡 What I Build
+
+- 🤖 AI-powered applications
+- 🧠 Retrieval-Augmented Generation (RAG) systems
+- 🔗 Enterprise REST APIs
+- ⚡ Scalable backend architectures
+- 🎨 Modern React & Next.js applications
+- 🐳 Dockerized deployments
+- 📊 Business platforms & enterprise software
+
+---
+
+# 🧠 AI & Generative AI
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qwen-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Embeddings-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-5E35B1?style=for-the-badge"/>
 
 </p>
 
@@ -75,9 +78,9 @@ I enjoy designing applications that are not only intelligent but also maintainab
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
 <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge"/>
@@ -93,8 +96,9 @@ I enjoy designing applications that are not only intelligent but also maintainab
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui"/>
 
 </p>
@@ -115,62 +119,68 @@ I enjoy designing applications that are not only intelligent but also maintainab
 
 ---
 
-# ⚙️ DevOps
+# ⚙️ DevOps & Tools
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 
 </p>
 
 ---
 
-# 🚀 Featured AI Projects
+# 🚀 Featured Projects
 
 ## 🧠 Local RAG Chatbot
 
-Production-ready chatbot running entirely locally using **Ollama**, **LangChain**, **PostgreSQL**, **pgvector**, **FastAPI**, and **React**.
+A production-ready Retrieval-Augmented Generation chatbot running entirely locally.
 
-**Features**
+### Built with
 
-- Local LLM
-- PDF Knowledge Base
-- Hybrid Search
-- Streaming Responses
-- Dockerized
-- REST API
-- Authentication
+- Ollama
+- LangChain
+- FastAPI
+- React
+- PostgreSQL
+- pgvector
+- Docker
 
----
+### Features
 
-## 🤖 AI Agent Platform *(Coming Soon)*
-
-A multi-agent platform featuring specialized AI assistants with:
-
-- Memory
-- RAG
-- Tool Calling
-- MCP
-- LangGraph
-- Multi-Model Support
+- 📄 PDF document ingestion
+- 🧠 Semantic search
+- 💬 Streaming AI responses
+- 🔒 Authentication
+- ⚡ REST API
+- 🐳 Dockerized deployment
+- 🔍 Vector database search
 
 ---
 
-## 📄 AI Document Intelligence *(Coming Soon)*
+# 💼 Professional Experience
 
-Extract structured data from:
+✔ 4+ years building enterprise software
 
-- PDFs
-- Contracts
-- Invoices
-- CVs
-- Images
+✔ CRM & Business Management Platforms
 
-using OCR + LLMs.
+✔ Vehicle & Fleet Management Systems
+
+✔ EV Charging Solutions
+
+✔ Marketplace Platforms
+
+✔ Survey & Analytics Systems
+
+✔ Real-time Applications using Socket.IO
+
+✔ SQL Server & PostgreSQL Integration
+
+✔ Enterprise REST APIs
 
 ---
 
@@ -178,46 +188,27 @@ using OCR + LLMs.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AminBenCheikh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=megamoo456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminBenCheikh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megamoo456&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=megamoo456&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Professional Highlights
+# 🎯 2026 Goals
 
-✅ 4+ years of software engineering experience
-
-✅ Enterprise CRM development
-
-✅ AI-powered applications
-
-✅ Local RAG architecture
-
-✅ Real-time communication systems
-
-✅ Dockerized production deployments
-
-✅ SQL & PostgreSQL optimization
-
-✅ REST APIs & WebSockets
-
-✅ Full Stack JavaScript
-
----
-
-# 📚 Currently Learning
-
-- Agentic AI
-- LangGraph
-- Kubernetes
-- Helm
-- MCP
-- AI Evaluation
-- Observability
-- Terraform
+- Build production-grade AI applications
+- Develop advanced AI Agent systems
+- Expand expertise in GenAI architectures
+- Strengthen DevOps & Kubernetes skills
+- Contribute to open-source AI projects
 
 ---
 
@@ -233,7 +224,11 @@ using OCR + LLMs.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AminBenCheikh">
+<a href="https://amin-bencheikh.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/megamoo456">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -243,6 +238,6 @@ using OCR + LLMs.
 
 <h3 align="center">
 
-*"Building intelligent software with clean architecture, scalable systems, and AI at its core."*
+💡 <i>"Turning ideas into production-ready software with modern engineering and Artificial Intelligence."</i>
 
 </h3>
